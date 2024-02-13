@@ -8,7 +8,9 @@ export const USER_LOGIN_SUCCESS = "USER_LOGIN_SUCCESS";
 export const USER_LOGIN_FAIL = "USER_LOGIN_FAIL";
 
 
-const app = "https://erick-guerrero-back-production.up.railway.app";
+//const app = "https://erick-guerrero-back-production.up.railway.app";
+
+const app = "https://back-production-3b46.up.railway.app";
 
 //const app = "http://localhost:3001";
 
