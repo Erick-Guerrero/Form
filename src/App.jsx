@@ -10,11 +10,11 @@ function App() {
       <Routes>
         <Route exact path="/" element={<Login/>}/>
 
-        <Route element={<AuthGuard />}>
+        {/* <Route element={<AuthGuard />}> */}
 
           <Route exact path="/form" element={<ClientForm />}/>
 
-        </Route>
+        {/* </Route> */}
 
 
       </Routes>
